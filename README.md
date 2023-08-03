@@ -1,4 +1,5 @@
-### Hi there 👋
+### Hi ladys and gentlemans 👋
+## My names's Marcus and I'm a programming enthusiast
 
 <!--
 **MarcusCtt/MarcusCtt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
